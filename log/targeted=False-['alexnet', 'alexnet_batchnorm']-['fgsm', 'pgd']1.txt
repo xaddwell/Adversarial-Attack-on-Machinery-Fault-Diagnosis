@@ -1,0 +1,4 @@
+fgsm-alexnet-Untargeted-Acc: 0.6490 AttackTime 3.9034 sec Distortion:1.5510941639111495 Best: 0.765625
+fgsm-alexnet_batchnorm-Untargeted-Acc: 0.1615 AttackTime 3.4532 sec Distortion:0.4857439720094905 Best: 0.3125
+pgd-alexnet-Untargeted-Acc: 0.9605 AttackTime 31.9293 sec Distortion:0.8295360379719803 Best: 1.0
+pgd-alexnet_batchnorm-Untargeted-Acc: 0.9115 AttackTime 31.8760 sec Distortion:0.8299114042120792 Best: 0.984375
