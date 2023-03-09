@@ -1,4 +1,4 @@
-import MyAttackModel as ta
+import torchattacks as ta
 
 class attack():
     def get(self,name,model,params):
